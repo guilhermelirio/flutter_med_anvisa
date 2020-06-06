@@ -146,7 +146,7 @@ class HomePage extends StatelessWidget {
                                                   _.medicamento[0].tarja ==
                                                       'TARJA PRETA(*)'
                                               ? Colors.black
-                                              : Colors.blue,
+                                              : Colors.white,
                                     )
                                   ],
                                 ),
