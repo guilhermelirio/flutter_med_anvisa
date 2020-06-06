@@ -123,7 +123,7 @@ class HomePage extends StatelessWidget {
                                           width: 3,
                                         ),
                                         Text(
-                                          'TARJA:',
+                                          'TARJA: ' + _.medicamento[0].tarja,
                                           style: TextStyle(
                                               fontWeight: FontWeight.bold,
                                               color: Color(0XFF666666)),
