@@ -10,7 +10,8 @@ ANVISA Drug List (Brazil) updated on 05/30/2020.
 - font_awesome_flutter: ^8.8.1
 
 ## Sample
-https://www.youtube.com/watch?v=F1fxTqsAOmA
+[![Watch the video](https://img.youtube.com/vi/F1fxTqsAOmA/maxresdefault.jpg)](https://youtu.be/F1fxTqsAOmA)
+
 
 
 
